@@ -1,5 +1,3 @@
-# Ruby on Rails tutorial : first application
+# Ruby on Rails : First Application
 
-This is the first application for Vishva
-
-
+This is the first application for vishva
